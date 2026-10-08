@@ -1,6 +1,8 @@
 
 # Remote Front-End Software Engineer Test Project
 
+> **Note:** This is a front-end take-home assessment I completed for Blutech Solutions LLC (Figma design → React/Vite, API-driven searchable product catalogue with Context state). It is not a production product.
+
 ## Blutech Solutions LLC
 
 ### Overview
@@ -34,21 +36,25 @@ The data is fetched from the following API endpoint:
 
 ### Setup Instructions
 
-1. **Clone the Repository**
+1. **Clone the repository**
    ```sh
-   git clone https://github.com/destinez/blutech.git
-   cd blutech
+   git clone https://github.com/Destinez/Blutech.git
+   cd Blutech
+   ```
 
-2. **Install**
+2. **Install dependencies**
    ```sh
    npm install
+   ```
 
-3. **Start the development server:**
+3. **Start the development server**
    ```sh
    npm run dev
+   ```
 
-4. **Browser Navigation**
-- `http://localhost:5173/`
+4. **Open** `http://localhost:5173/`
+
+To create a production build: `npm run build` (output in `dist/`).
 
 
 ### Usage
