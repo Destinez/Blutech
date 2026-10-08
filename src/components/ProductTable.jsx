@@ -1,6 +1,6 @@
 import React, { useContext, useState, useEffect } from "react";
 import { Table, Nav, NavItem, NavLink } from "reactstrap";
-import { ApiContext } from "../context/apiContext";
+import { ApiContext } from "../context/ApiContext";
 import "../assets/styles/productTable.scss";
 
 const suppliers = ["FragranceX", "FragranceNet", "Morris Costumes"];

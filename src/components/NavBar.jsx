@@ -24,7 +24,7 @@ import {
   Col,
 } from "reactstrap";
 import { FaSearch, FaBell, FaCaretDown } from "react-icons/fa";
-import { ApiContext } from "../context/apiContext";
+import { ApiContext } from "../context/ApiContext";
 import "../assets/styles/navbar.scss";
 import Logo from "../assets/images/logo.png";
 import Avatar from "../assets/images/avatar.png";

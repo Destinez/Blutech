@@ -1,7 +1,7 @@
 
 
 import React from 'react';
-import { ApiProvider } from '../context/apiContext';
+import { ApiProvider } from '../context/ApiContext';
 import ProductTable from '../components/ProductTable';
 import NavbarComponent from '../components/NavBar';
 
